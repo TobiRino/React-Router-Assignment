@@ -1,0 +1,56 @@
+main {
+  text-align: center;
+  vertical-align: center;
+}
+
+
+li{
+  line-Height: 45px
+}
+
+body{
+    background-color:#4dc2f5;
+    color:white;
+}
+
+.Navigate {
+  background-color: blue;
+  color: #4dc2f5;
+  font-size:18px;
+  font-weight:bold;
+  letter-spacing:1px;
+  margin: 100px 20px;
+  padding: 15px;
+  border-radius:5px;
+  text-decoration: none;
+}
+
+.user_btn{
+  background:#5837D0;
+  color:white;
+  margin: 5px;
+    padding:12px;
+  border-radius:5px;
+  border:none;
+}
+
+.next_btn{
+  background:blue;
+  color:white;
+  padding:12px;
+  margin:5px;
+outline:none;
+border:none;
+border-radius:5px;
+font-size:22x;
+}
+pre{
+   background:orange;
+  color:white;
+  padding:12px;
+  margin:5px;
+outline:none;
+border:none;
+border-radius:5px;
+font-size:22x;
+}
