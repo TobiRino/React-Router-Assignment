@@ -9,15 +9,17 @@ li{
 }
 
 body{
-    background-color:#4dc2f5;
-    color:white;
+    background-color:#white;
+    color:black;
+  font-family: roboto;
 }
 
 .Navigate {
-  background-color: blue;
-  color: #4dc2f5;
+  background-color: #0f4d92;
+  color: ffffff;
   font-size:18px;
   font-weight:bold;
+  font-family: roboto;
   letter-spacing:1px;
   margin: 100px 20px;
   padding: 15px;
@@ -26,8 +28,8 @@ body{
 }
 
 .user_btn{
-  background:#5837D0;
-  color:white;
+  background:#000000;
+  color: white;
   margin: 5px;
     padding:12px;
   border-radius:5px;
@@ -35,7 +37,7 @@ body{
 }
 
 .next_btn{
-  background:blue;
+  background: #0f4d92;
   color:white;
   padding:12px;
   margin:5px;
